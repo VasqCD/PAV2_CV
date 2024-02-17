@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="tech.cvasquez.data.Empleado"/>
+    <fullyQualifiedTypeName name="com.vaadin.flow.component.textfield.NumberField"/>
+    <fullyQualifiedTypeName name="tech.cvasquez.data.EmpleadoRepository"/>
+</qualifiedTypeNameHistroy>
