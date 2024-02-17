@@ -3,4 +3,7 @@
     <fullyQualifiedTypeName name="tech.cvasquez.data.Empleado"/>
     <fullyQualifiedTypeName name="com.vaadin.flow.component.textfield.NumberField"/>
     <fullyQualifiedTypeName name="tech.cvasquez.data.EmpleadoRepository"/>
+    <fullyQualifiedTypeName name="com.vaadin.flow.component.icon.VaadinIcon"/>
+    <fullyQualifiedTypeName name="com.github.javaparser.quality.NotNull"/>
+    <fullyQualifiedTypeName name="jakarta.validation.constraints.Size"/>
 </qualifiedTypeNameHistroy>
